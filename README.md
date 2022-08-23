@@ -14,7 +14,7 @@ A betting exchange is a marketplace where the customers bet against each other, 
 - Betting with one user to another
 - Bet's Liability and Profit Calculator
 
-
+Demo Link https://back-and-lay-betting.herokuapp.com/
 ## Installation
 
 
